@@ -5,6 +5,7 @@
 }
 .header {
   background: gray;
+  margin-bottom: 30px;
 }
 
 .mai_logo_menu {
@@ -45,4 +46,41 @@ img {
 
 .main_menu ul li a:hover {
   background: red;
+}
+.main_body {
+  width: 1000px;
+  background: gray;
+  height: 500px;
+  margin: 20px auto;
+}
+
+.footer {
+  background: gray;
+}
+
+.footer {
+  background: gray;
+}
+
+.footer_all {
+  width: 1000px;
+  /* background: yellow; */
+  margin: auto;
+}
+
+.footer_all {display: flex;overflow: hidden;}
+
+.footer_part {
+    /* background: red; */
+    width: 30.33%;
+    margin-left: 3%;
+}
+
+.footer_box {
+  margin-left: -3%;
+  padding: 35px 0;
+}
+
+.footer_part ul {
+  list-style: none;
 }
